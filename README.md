@@ -14,7 +14,7 @@ Now create a new file called `storefront/build/webpack.config.js` to extend Shop
 
 ```js
 module.exports = ({ config }) => {
-    config.plugins.push(new MarkPluginsAsAssets({
+    config.plugins.push(new WebpackMarkPluginsAsAssets({
         plugins: ['KoroProductOrigin']
     }));
 }
