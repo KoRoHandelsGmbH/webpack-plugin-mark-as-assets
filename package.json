@@ -1,6 +1,6 @@
 {
   "name": "@korodrogerie/webpack-plugin-mark-as-assets",
-  "version": "0.9.9",
+  "version": "1.0.0",
   "description": "Webpack plugin which allows you to mark your Shopware 6 plugins as assets, so they're excluded from Shopware's all.js. The bundled JavaScript file can be included in your storefront theme where you want it.",
   "main": "src/index.js",
   "scripts": {

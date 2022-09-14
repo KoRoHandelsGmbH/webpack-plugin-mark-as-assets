@@ -1,10 +1,5 @@
 {
-    "plugins": {
-        "@release-it/bumper": {
-            "in": "package.json",
-            "out": "package.json"
-        }
-    },
+    "plugins": {},
     "git": {
         "changelog": "npx auto-changelog --stdout",
         "requireBranch": "main",
