@@ -1,5 +1,10 @@
 # Webpack Plugin - Mark plugin as assets
 
+<div align="center">
+
+![NPM](https://img.shields.io/npm/l/@korodrogerie/webpack-plugin-mark-as-assets) ![npm (scoped)](https://img.shields.io/npm/v/@korodrogerie/webpack-plugin-mark-as-assets) ![node version](https://img.shields.io/badge/node-v16-brightgreen) ![npm](https://img.shields.io/npm/dm/@korodrogerie/webpack-plugin-mark-as-assets)
+</div>
+
 Webpack plugin which allows you to mark your Shopware 6 plugins as assets, so they're excluded from Shopware's all.js. The bundled JavaScript file can be included in your storefront theme where you want it.
 
 ## Usage
